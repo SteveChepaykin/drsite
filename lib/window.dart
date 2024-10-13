@@ -43,7 +43,7 @@ class _WindowState extends State<Window> {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Image.asset(
-                      "assets/dyadyakolya.jpg",
+                      "assets/shapochka.jpg",
                       height: 200.0,
                       width: 200.0,
                     ),
